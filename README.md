@@ -1,4 +1,4 @@
-<H3>Name : Mathiyazhagan.A U</H3>
+<H3>Name : Mathiyazhagan.A </H3>
 <H3>Register no : 212222240063</H3>
 <H3>Date : 14.03.2024</H3>
 <H3>Experiment No : 2 </H3>
